@@ -1,0 +1,8 @@
+{
+  "name": "example-repo-docker",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node generate-test-file.ts"
+  },
+  "dependencies": {}
+}
